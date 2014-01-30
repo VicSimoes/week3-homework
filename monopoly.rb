@@ -26,12 +26,12 @@ puts cheap_property[:rent]
 
 
 #Q4. How much does it cost to buy New York Ave?
-#A4: Your code goes here:
+#A4: Your code goes here: 180
 puts more_properties[2][:price]
 
 
 #Q5: How many "good" special squares are there?
-#A5: Your code goes here:
+#A5: Your code goes here: 3
 puts special_squares[:good].count
 
 
